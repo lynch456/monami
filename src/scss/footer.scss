@@ -17,7 +17,7 @@ footer {
           li {
             padding-right: 11px;
             margin-right: 10px;
-            background-image: url("../src/image/fm_bar.gif");
+            background-image: url("./src/image/fm_bar.gif");
             background-repeat: no-repeat;
             background-position: right center;
             &:last-child {
@@ -82,7 +82,7 @@ footer {
           &:after {
             content: "";
             display: inline-block;
-            background-image: url("../src/image/family_arr.png");
+            background-image: url("./src/image/family_arr.png");
             background-repeat: no-repeat;
             width: 10px;
             height: 10px;
