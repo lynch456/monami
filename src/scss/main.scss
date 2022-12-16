@@ -8,7 +8,7 @@ main {
   background-color: azure;
 }
 #main-bg {
-  background-image: url("../image/visual1.jpg");
+  background-image: url("../src/image/visual1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
@@ -420,7 +420,7 @@ main {
     text-align: center;
     width: 350px;
     height: 355px;
-    background-image: url("../image/inquiry_bg.jpg");
+    background-image: url("../src/image/inquiry_bg.jpg");
     background-color: #c40f39;
 
     h2 {
@@ -431,7 +431,7 @@ main {
       font-weight: 600;
       &::before {
         content: "";
-        background-image: url("../image/inquiry_tit_bg.png");
+        background-image: url("../src/image/inquiry_tit_bg.png");
         display: block;
         width: 53px;
         height: 49px;
@@ -468,7 +468,7 @@ main {
   #shop {
     width: 350px;
     height: 355px;
-    background-image: url("../image/shop_bg.png");
+    background-image: url("../src/image/shop_bg.png");
     border-right: 1px solid #ddd;
   }
 }
