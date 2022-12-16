@@ -10,7 +10,7 @@ body {
 }
 
 #popup-btn {
-  background-image: url("/src/image/l-popup__button.png");
+  background-image: url("../image/l-popup__button.png");
   position: fixed;
   width: 220px;
   height: 220px;
@@ -40,7 +40,7 @@ body {
   }
   #reserve:after {
     content: "";
-    background-image: url("/src/image/l-popup__icon.png");
+    background-image: url("../image/l-popup__icon.png");
     display: inline-block;
     background-repeat: no-repeat;
     width: 37px;
@@ -55,7 +55,7 @@ body {
     height: 16px;
     left: 100px;
     bottom: 29px;
-    background-image: url("/src/image/l-popup__button--close.png");
+    background-image: url("../image/l-popup__button--close.png");
     background-repeat: no-repeat;
     display: block;
     background-color: transparent;
