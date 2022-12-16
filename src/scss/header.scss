@@ -34,7 +34,7 @@ header {
       &:nth-child(1):before {
         content: "";
         display: inline-block;
-        background-image: url("../src/image/lang_kor.gif");
+        background-image: url("../image/lang_kor.gif");
         background-repeat: no-repeat;
         background-position: center;
         width: 20px;
@@ -46,7 +46,7 @@ header {
       &::after {
         content: "";
         display: inline-block;
-        background-image: url("../src/image/lang_arr.gif");
+        background-image: url("../image/lang_arr.gif");
         background-repeat: no-repeat;
         background-position: center;
         width: 20px;
@@ -73,7 +73,7 @@ header {
       li {
         &:after {
           content: "";
-          background-image: url("../src/image/tm_bar.gif");
+          background-image: url("../image/tm_bar.gif");
           display: inline-block;
           width: 1px;
           height: 10px;
